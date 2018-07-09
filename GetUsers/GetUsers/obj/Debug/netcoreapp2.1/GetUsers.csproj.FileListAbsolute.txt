@@ -1,0 +1,14 @@
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\bin\Debug\netcoreapp2.1\GetUsers.deps.json
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\bin\Debug\netcoreapp2.1\GetUsers.runtimeconfig.json
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\bin\Debug\netcoreapp2.1\GetUsers.runtimeconfig.dev.json
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\bin\Debug\netcoreapp2.1\GetUsers.dll
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.csproj.CoreCompileInputs.cache
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.RazorAssemblyInfo.cache
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.RazorAssemblyInfo.cs
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.AssemblyInfoInputs.cache
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.AssemblyInfo.cs
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.RazorTargetAssemblyInfo.cache
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\bin\Debug\netcoreapp2.1\GetUsers.pdb
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.csprojAssemblyReference.cache
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.dll
+C:\Users\Dslusari\source\repos\GetUsers\GetUsers\obj\Debug\netcoreapp2.1\GetUsers.pdb
